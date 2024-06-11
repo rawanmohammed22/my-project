@@ -1,0 +1,73 @@
+body {
+    color: white;
+}
+
+.kkk {
+    color: white;
+}
+
+#popo {
+    color: aquamarine;
+}
+
+.login {
+    background-color: #24353f;
+    width: 100%;
+    height: 100vh;
+}
+
+.rawan {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    width: 70%;
+    height: 75%;
+}
+
+.form-controll {
+    border: 1px solid #ced4da;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+input, textarea {
+    background-color: transparent !important;
+    color: azure;
+    border: 1px solid #ced4da;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #17a2b8;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.login button {
+    background-color: #17a2b8;
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.yee  h2{
+   color: antiquewhite;
+
+
+
+
+}
+.yee button{
+   border-color: rgb(240, 147, 8);
+   color: rgb(252, 228, 198);
+   background-color: #24353f;
+
+
+}
+.yee button:hover{
+
+     background-color: rgb(250, 153, 9);
+     color: white;
+}.jjj{
+    height: 200px;
+    
+}
